@@ -125,3 +125,10 @@ text,author
 
 Requires **Python 3.10+** (uses `X | Y` union type hints).  
 For Python 3.8–3.9, replace `str | None` with `Optional[str]` from `typing`.
+
+
+Key Learnings
+Understanding website structure (HTML, tags, classes)
+Data extraction using Python
+Handling real-world data collection
+Version control using Git
